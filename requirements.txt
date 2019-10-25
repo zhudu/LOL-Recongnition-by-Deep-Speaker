@@ -1,0 +1,6 @@
+# Note: this doesn't include tensorflow or tensorflow-gpu because the package you need to install
+# depends on your platform. It is assumed you have already installed tensorflow.Avoid tensorflow 
+# version 2 ，which can have a variety of different points leading to errors.
+Pyaudio==0.2.11
+numpy==1.16.2
+keras==2.2.4
